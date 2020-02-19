@@ -2,25 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45bb866c-a39a-41d8-ac59-fe500b979450" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/datastructure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/huangpeng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Josephu/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleQueue/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/circleSingleLink/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doubleLink/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/expStack/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/insertSort/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maza/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickSort/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/selectSort/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleLink/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sparseArray/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stack/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maza/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/maza/main.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +16,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stack/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1217">
+            <state relative-caret-position="2088">
               <caret line="72" selection-start-line="12" selection-end-line="72" />
               <folding>
                 <element signature="e#104#131#0" expanded="true" />
@@ -47,18 +30,24 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="631">
               <caret line="120" column="25" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
-              <folding>
-                <element signature="e#104#131#0" expanded="true" />
-              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maza/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="913">
+              <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/maza/main.go">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="87">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -101,6 +90,7 @@
         <option value="$PROJECT_DIR$/extStack/main.go" />
         <option value="$PROJECT_DIR$/expStack/main.go" />
         <option value="$PROJECT_DIR$/maza/main.go" />
+        <option value="$PROJECT_DIR$/,gitignore" />
       </list>
     </option>
   </component>
@@ -156,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (4)">
+  <component name="RunManager" selected="Go Build.go build main.go (5)">
     <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="datastructure" />
       <working_directory value="$PROJECT_DIR$" />
@@ -193,29 +183,30 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="datastructure" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/selectsort/main.go" />
+      <filePath value="$PROJECT_DIR$/maza/main.go" />
       <package value="datastructure" />
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (5)" />
         <item itemvalue="Go Build.go build main.go (4)" />
         <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (2)" />
         <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-11" width="2560" height="1417" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15091342" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15210484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -228,7 +219,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32981133" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2354717" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -312,7 +303,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stack/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1217">
+        <state relative-caret-position="2088">
           <caret line="72" selection-start-line="12" selection-end-line="72" />
           <folding>
             <element signature="e#104#131#0" expanded="true" />
@@ -320,20 +311,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/go.mod">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/expStack/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="631">
           <caret line="120" column="25" selection-start-line="120" selection-start-column="25" selection-end-line="120" selection-end-column="25" />
-          <folding>
-            <element signature="e#104#131#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/maza/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="913">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
